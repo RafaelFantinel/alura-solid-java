@@ -1,3 +1,5 @@
+![thumbnail-SolidJava](https://github.com/RafaelFantinel/alura-solid-java/assets/52799324/ad0e3b78-e9a7-446e-ab40-fbdf20006111)
+
 
 
 # SOLID com Java: princípios da programação orientada a objetos
